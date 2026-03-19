@@ -33,8 +33,10 @@ A Linux-based system programming project that analyzes process information and m
 ##  Project Structure
 
 ```
-|----ProcMapAnalyzer.c
-|----README.md
+|----ProcMapAnalyzer
+|    |---src
+|    |     |----ProcMapAnalyzer.c
+|    |----README.md
 
 ```
 
