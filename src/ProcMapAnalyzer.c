@@ -43,9 +43,9 @@
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  Function Name : ShowMemoryLayout()
+//  Function Name : GetSectionType()
 //  Description   : Classifies the memory section based on details and permission
-//  Input         : Process ID
+//  Input         : details , permissions , section
 //  Output        : Nothing
 //  Author        : Rekha Shankarlal Kumawat
 //  Date          : 08 / 03 / 2026
